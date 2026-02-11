@@ -1,7 +1,8 @@
-# 🌐 Web3 Project Research Dashboard
+# 🌐 Web3 Research & Trust Dashboard
 
 ## 📌 Project Overview
-The Web3 Project Research Dashboard is a beginner-friendly web application that explains major Web3 projects and their key information.
+The Web3 Project Research Dashboard is a beginner-friendly web application that provides clear, concise explanations of major Web3 projects such as **Ethereum, Solana, and Cosmos**, including their purpose, adoption challenges, security risks, and key ecosystem information.
+
 
 It helps users understand:
 - What problems each Web3 project solves

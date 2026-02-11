@@ -29,8 +29,8 @@ This project demonstrates research ability, Web3 ecosystem understanding, and fr
 ### Dashboard View
 ![Dashboard](screenshots/dashboard.png)
 
-### Modal Project View
-![Project Modal](screenshots/modal.png)
+### Project Filter
+![Project Modal](screenshots/filters.png)
 
 ### Project Modal Popup
 ![Project Modal](screenshots/modal.png)

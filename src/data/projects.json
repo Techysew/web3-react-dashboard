@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Ethereum",
+    "image": "/images/ethereum.png",
+    "category": "Layer 1",
+    "riskLevel": "High",
+    "beginnerFriendly": false,
+    "problem": "Enables decentralized applications and smart contracts without intermediaries.",
+    "useCases": "DeFi, NFTs, DAOs, Smart Contracts",
+    "risks": "High gas fees, smart contract vulnerabilities, scams.",
+    "simple": "Ethereum is like a global computer that anyone can use to run apps without a central owner."
+  },
+  {
+    "name": "Solana",
+    "image": "/images/solana.png",
+    "category": "Layer 1",
+    "riskLevel": "Medium",
+    "beginnerFriendly": true,
+    "problem": "Fast and low-cost blockchain for decentralized apps.",
+    "useCases": "DeFi, NFTs, Web3 games",
+    "risks": "Network outages, centralization concerns",
+    "simple": "Solana is a very fast blockchain where apps can run cheaply."
+  },
+  {
+    "name": "Cosmos",
+    "image": "/images/cosmos.png",
+    "category": "Layer 1",
+    "riskLevel": "Medium",
+    "beginnerFriendly": false,
+    "problem": "Connects multiple blockchains into one ecosystem.",
+    "useCases": "Interoperable blockchains, DeFi",
+    "risks": "Complexity, adoption challenges",
+    "simple": "Cosmos acts like an 'internet of blockchains' so they can talk to each other."
+  },
+  {
+    "name": "Polkadot",
+    "image": "/images/polkadot.png",
+    "category": "Layer 1",
+    "riskLevel": "Medium",
+    "beginnerFriendly": false,
+    "problem": "Allows blockchains to interoperate and share security.",
+    "useCases": "Cross-chain apps, DeFi, NFTs",
+    "risks": "Complex technology, adoption hurdles",
+    "simple": "Polkadot lets different blockchains work together safely."
+  },
+  {
+    "name": "Avalanche",
+    "image": "/images/avalanche.png",
+    "category": "Layer 1",
+    "riskLevel": "Medium",
+    "beginnerFriendly": true,
+    "problem": "High-speed, low-cost smart contract platform.",
+    "useCases": "DeFi, NFTs, Enterprise apps",
+    "risks": "Competing platforms, network security",
+    "simple": "Avalanche is a fast blockchain where apps can run quickly and cheaply."
+  },
+  {
+    "name": "Chainlink",
+    "image": "/images/chainlink.png",
+    "category": "DeFi",
+    "riskLevel": "Low",
+    "beginnerFriendly": true,
+    "problem": "Connects smart contracts to real-world data (oracles).",
+    "useCases": "DeFi price feeds, insurance, gaming",
+    "risks": "Data source reliability, smart contract risk",
+    "simple": "Chainlink is like a bridge between blockchains and real-world data."
+  },
+  {
+    "name": "Uniswap",
+    "image": "/images/uniswap.png",
+    "category": "DeFi",
+    "riskLevel": "Medium",
+    "beginnerFriendly": true,
+    "problem": "Decentralized exchange for swapping tokens without intermediaries.",
+    "useCases": "Token trading, liquidity pools",
+    "risks": "Smart contract bugs, impermanent loss",
+    "simple": "Uniswap lets people trade tokens directly without a bank or exchange."
+  },
+  {
+    "name": "Decentraland",
+    "image": "/images/decentraland.png",
+    "category": "NFT",
+    "riskLevel": "Medium",
+    "beginnerFriendly": false,
+    "problem": "A virtual world where users can buy, sell, and build on land using blockchain.",
+    "useCases": "Virtual real estate, NFTs, Gaming",
+    "risks": "Market speculation, platform adoption",
+    "simple": "Decentraland is like a virtual 3D world on the blockchain where you can own land and items."
+  }
+]
